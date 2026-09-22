@@ -81,7 +81,7 @@
 /* Context Menu */
 .context-menu,
 .context-menu .menu-checkbox {
-    background-color: var(--background2);
+    background-color: var(--background);
     border-bottom: 1px solid var(--border);
     padding: 4px 0px;
     font-family: var(--system-font);
@@ -1112,7 +1112,7 @@ Example: "Windows Media" becomes "windows-media" */
 
 .taskbar-widget .app-container .app-title {
     padding-bottom: 2px;
-    padding-left: 8px;
+    padding-left: 4px;
 }
 
 .taskbar-widget .app-container.foreground {
