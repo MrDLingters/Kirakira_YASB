@@ -1,5 +1,5 @@
 # Kirakira_YASB
-### Minimalistic bar with glass design with dark and light theme.
+### Minimalistic bar with glass design with dynamic theme support.
 Requires YASB v2.0.7 or newer.
 
 Fonts required:
@@ -14,8 +14,3 @@ Change image_path in the wallpapers widget to your own wallpaper folder.
 ### Top bar preview
 <img width="3839" height="2159" alt="Screenshot 2026-09-22 231103" src="https://github.com/user-attachments/assets/bfd24468-adde-44be-a0cd-79109103fff2" />
 <img width="3839" height="2159" alt="Screenshot 2026-09-22 231245" src="https://github.com/user-attachments/assets/afd67eef-e4f2-448c-9297-102ed5aa6508" />
-
-# How to change color scheme
-### Open styles.css file in your C:\Users\USERNAME\\.config\yasb and leave uncommented **ONE** set of variables from "colors" section. Here's a [quick guide video](https://youtu.be/PFH5lKwJ9Dw?si=jJ6s-vyxm7ZkIhD5).
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4688460f-3e55-4cd5-9c8d-4171e6326840" />
-
