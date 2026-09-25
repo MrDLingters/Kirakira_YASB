@@ -1,5 +1,5 @@
 # Kirakira_YASB
-### Minimalistic bar with glass design with dynamic theme support.
+### Minimalistic bar with glass design and dynamic theme support.
 Requires YASB v2.0.7 or newer.
 
 Fonts required:
